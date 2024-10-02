@@ -97,6 +97,6 @@ def decrypt(email="def345"):
     # i.e.,
     #    email_str = " some string updates here "
     #    email_1 = email_str.strip()
-    #    retVal = email_1
+    #     retVal = email_1
     retVal = email_str
     return retVal
